@@ -18,3 +18,5 @@ function functionWithArgs (param1, param2) {
   }
   functionWithArgs(1,2);
   functionWithArgs(7,9);
+
+  // outputs the sum to the dev console (3 and 16)
